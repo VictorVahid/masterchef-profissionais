@@ -23,5 +23,17 @@ Encontrou uma vulnerabilidade? Não abra uma issue pública. Use
   links/HTML/menções e varredura de credenciais antes de qualquer upload, commit ou PR.
 - O token do Claude existe só no job de extração; o job que publica nunca o recebe.
 
+**Chat ao vivo (Supabase)**
+- Todas as regras ficam no banco (Row Level Security + gatilhos): só usuários autenticados (login anônimo)
+  escrevem, cada um só como si mesmo; apelido e texto validados (tamanho, sem links, HTML ou menções);
+  anti-spam (1 mensagem a cada 3 s, 12 por minuto, sem repetição); banimento; 3 denúncias ocultam a mensagem.
+- Tempo real por canal **privado**: só o banco publica as mensagens, com apenas apelido, texto e hora —
+  o identificador de quem escreveu nunca sai do banco. Navegadores só publicam reações e presença.
+- Mensagens visíveis por 48 h e apagadas após 7 dias. A chave usada no site é a pública (anon/publishable).
+
+**Jogos**
+- Base histórica gerada de fontes públicas, com revisão registrada; nenhum dado pessoal além do que as
+  fontes publicam. Menores de idade (MasterChef Júnior) excluídos.
+
 **Acompanhamento de CVEs**
 - Dependabot (npm e Actions), `npm audit` + verificação de assinaturas a cada push e semanalmente, e CodeQL.

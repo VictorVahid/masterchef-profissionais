@@ -1,0 +1,3373 @@
+{
+  "generatedAt": "2026-10-09T23:00:17.016Z",
+  "license": "Dados da Wikipédia (CC BY-SA 4.0)",
+  "seasons": [
+    {
+      "id": "brasil-1",
+      "show": "MasterChef Brasil",
+      "edition": "1ª temporada",
+      "year": 2014,
+      "episodes": 17,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Elisa Fernandes",
+          "age": 24,
+          "hometown": "Ribeirão Preto",
+          "occupation": "Executive producer",
+          "finish": 1,
+          "wins": 9,
+          "result": "campeao"
+        },
+        {
+          "name": "Helena Manosso",
+          "age": 44,
+          "hometown": "São Paulo",
+          "occupation": "Chemical engineer",
+          "finish": 2,
+          "wins": 6,
+          "result": "vice",
+          "deceased": true
+        },
+        {
+          "name": "Luis Lima",
+          "age": 31,
+          "hometown": "Teresina",
+          "occupation": "Legal analyst",
+          "finish": 3,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Mohamad Hindi Neto",
+          "age": 27,
+          "hometown": "São Bernardo do Campo",
+          "occupation": "Businessman",
+          "finish": 4,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Jaime Conceição",
+          "age": 30,
+          "hometown": "São Paulo",
+          "occupation": "Teacher",
+          "finish": 5,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Cecilia Padilha",
+          "age": 33,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Business administrator",
+          "finish": 6,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Flavio Takemoto",
+          "age": 29,
+          "hometown": "São Paulo",
+          "occupation": "Designer",
+          "finish": 7,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Jamyly Monard",
+          "age": 22,
+          "hometown": "Macapá",
+          "occupation": "Student",
+          "finish": 8,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Estefano Zaquini",
+          "age": 19,
+          "hometown": "Santo André",
+          "occupation": "Locksmith assistant",
+          "finish": 9,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Sandra Matarazzo",
+          "age": 30,
+          "hometown": "São Paulo",
+          "occupation": "Blogger",
+          "finish": 10,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Martin Casilli",
+          "age": 20,
+          "hometown": "São Paulo",
+          "occupation": "Student",
+          "finish": 11,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Lucio Manosso",
+          "age": 47,
+          "hometown": "São Paulo",
+          "occupation": "Chemical engineer",
+          "finish": 12,
+          "wins": 1,
+          "result": "desistiu"
+        },
+        {
+          "name": "Bianca Bertolaccini",
+          "age": 35,
+          "hometown": "Mauá",
+          "occupation": "Actress",
+          "finish": 13,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Isabella Britto",
+          "age": 34,
+          "hometown": "Vitória",
+          "occupation": "Consultant",
+          "finish": 14,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Marli Rocha",
+          "age": 51,
+          "hometown": "Juiz de Fora",
+          "occupation": "Retired",
+          "finish": 15,
+          "wins": 0,
+          "result": "eliminado",
+          "deceased": true
+        },
+        {
+          "name": "Shlomi Asaf",
+          "age": 39,
+          "hometown": "Rishon LeZion, Israel",
+          "occupation": "App developer",
+          "finish": 16,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_1&oldid=1302390292",
+        "revision": 1302390292
+      }
+    },
+    {
+      "id": "brasil-2",
+      "show": "MasterChef Brasil",
+      "edition": "2ª temporada",
+      "year": 2015,
+      "episodes": 18,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Izabel Alvares",
+          "age": 31,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Event producer",
+          "finish": 1,
+          "wins": 9,
+          "result": "campeao"
+        },
+        {
+          "name": "Raul Lemos",
+          "age": 34,
+          "hometown": "Santos",
+          "occupation": "Publicist",
+          "finish": 2,
+          "wins": 5,
+          "result": "vice"
+        },
+        {
+          "name": "Jiang Pu",
+          "age": 26,
+          "hometown": "Yongzhou, China",
+          "occupation": "Unemployed",
+          "finish": 3,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Cristiano Oliveira",
+          "age": 37,
+          "hometown": "Porto Seguro",
+          "occupation": "Traffic agent",
+          "finish": 4,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fernando Kawasaki",
+          "age": 29,
+          "hometown": "Parapuã",
+          "occupation": "Publicist",
+          "finish": 5,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Lucas Furtado",
+          "age": 24,
+          "hometown": "São Roque",
+          "occupation": "Student",
+          "finish": 6,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Sabrina Kanai",
+          "age": 29,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Microentrepreneur",
+          "finish": 7,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Aritana Maroni",
+          "age": 36,
+          "hometown": "São Paulo",
+          "occupation": "Business administrator",
+          "finish": 8,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Marcos Baldassari",
+          "age": 34,
+          "hometown": "São Paulo",
+          "occupation": "Business administrator",
+          "finish": 9,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Carla Correia",
+          "age": 52,
+          "hometown": "São Paulo",
+          "occupation": "Behavioral training consultant",
+          "finish": 10,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Iranete Santana",
+          "age": 47,
+          "hometown": "Salvador",
+          "occupation": "Housekeeper",
+          "finish": 11,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Murilo de Oliveira",
+          "age": 26,
+          "hometown": "Londrina",
+          "occupation": "Marketing analyst",
+          "finish": 12,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Gustavo Bicalho",
+          "age": 26,
+          "hometown": "Belo Horizonte",
+          "occupation": "Lawyer",
+          "finish": 13,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Hamilton Carvalho",
+          "age": 47,
+          "hometown": "Distrito Federal",
+          "occupation": "Police helicopter pilot",
+          "finish": 14,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rodrigo Serra",
+          "age": 41,
+          "hometown": "São Paulo",
+          "occupation": "Lawyer",
+          "finish": 15,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Larissa Douat",
+          "age": 26,
+          "hometown": "Araguari",
+          "occupation": "International relations bachelor",
+          "finish": 16,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_2&oldid=1307015342",
+        "revision": 1307015342
+      }
+    },
+    {
+      "id": "brasil-3",
+      "show": "MasterChef Brasil",
+      "edition": "3ª temporada",
+      "year": 2016,
+      "episodes": 25,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Leonardo Young",
+          "age": 30,
+          "hometown": "São Paulo",
+          "occupation": "Entrepreneur",
+          "finish": 1,
+          "wins": 7,
+          "result": "campeao"
+        },
+        {
+          "name": "Bruna Chaves",
+          "age": 29,
+          "hometown": "Nova Lima",
+          "occupation": "Teacher",
+          "finish": 2,
+          "wins": 11,
+          "result": "vice"
+        },
+        {
+          "name": "Raquel Novais",
+          "age": 32,
+          "hometown": "Belo Horizonte",
+          "occupation": "Entrepreneur",
+          "finish": 3,
+          "wins": 12,
+          "result": "eliminado"
+        },
+        {
+          "name": "Luriana Toledo",
+          "age": 27,
+          "hometown": "Mogi das Cruzes",
+          "occupation": "Physiotherapist",
+          "finish": 4,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fabio Nunes",
+          "age": 30,
+          "hometown": "Taquari",
+          "occupation": "Model",
+          "finish": 5,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Lee Fu Kuang",
+          "age": 56,
+          "hometown": "Taipei, Taiwan",
+          "occupation": "Doctor & researcher",
+          "finish": 6,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Paula Salles",
+          "age": 33,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Cultural producer",
+          "finish": 7,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Aluisio Nahime",
+          "age": 32,
+          "hometown": "Cajuru",
+          "occupation": "Merchant",
+          "finish": 8,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Pedro Lima",
+          "age": 27,
+          "hometown": "Teresópolis",
+          "occupation": "Business consultant",
+          "finish": 9,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fernando Bianchi",
+          "age": 31,
+          "hometown": "São Paulo",
+          "occupation": "Analyst controller",
+          "finish": 10,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Thaiana Wosniak",
+          "age": 31,
+          "hometown": "Guarapuava",
+          "occupation": "Lawyer & announcer",
+          "finish": 11,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Gleice Simão",
+          "age": 20,
+          "hometown": "São Paulo",
+          "occupation": "Student",
+          "finish": 12,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Vanessa Vagnotti",
+          "age": 46,
+          "hometown": "Vitória",
+          "occupation": "Dance teacher",
+          "finish": 13,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rodrigo Silva",
+          "age": 34,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Police officer",
+          "finish": 14,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Livia Cathiard",
+          "age": 27,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Producer",
+          "finish": 15,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Guilherme Joventino",
+          "age": 37,
+          "hometown": "Belo Horizonte",
+          "occupation": "Commercial director",
+          "finish": 16,
+          "wins": 3,
+          "result": "desistiu"
+        },
+        {
+          "name": "Nuno Codeço",
+          "age": 37,
+          "hometown": "Lisbon, Portugal",
+          "occupation": "CFO",
+          "finish": 17,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Gabriella Palinkas",
+          "age": 26,
+          "hometown": "São Paulo",
+          "occupation": "Chemical engineer",
+          "finish": 18,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rodrigo \"Tenente\" Domingues",
+          "age": 35,
+          "hometown": "São Paulo",
+          "occupation": "Product manager",
+          "finish": 19,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Victor Branco",
+          "age": 27,
+          "hometown": "Salvador",
+          "occupation": "Publicist",
+          "finish": 20,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Hellen Cruz",
+          "age": 29,
+          "hometown": "Osasco",
+          "occupation": "Publicist",
+          "finish": 21,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_3&oldid=1326072516",
+        "revision": 1326072516
+      }
+    },
+    {
+      "id": "brasil-4",
+      "show": "MasterChef Brasil",
+      "edition": "4ª temporada",
+      "year": 2017,
+      "episodes": 25,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Michele Crispim",
+          "age": 27,
+          "hometown": "Palhoça",
+          "occupation": "Commercial manager",
+          "finish": 1,
+          "wins": 10,
+          "result": "campeao"
+        },
+        {
+          "name": "Deborah Werneck",
+          "age": 30,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Administrator",
+          "finish": 2,
+          "wins": 10,
+          "result": "vice"
+        },
+        {
+          "name": "Valter Herzmann",
+          "age": 40,
+          "hometown": "Florianópolis",
+          "occupation": "Events producer",
+          "finish": 3,
+          "wins": 10,
+          "result": "eliminado"
+        },
+        {
+          "name": "Victor Vieira",
+          "age": 34,
+          "hometown": "Vitória",
+          "occupation": "Marketing director",
+          "finish": 4,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Leonardo Santos",
+          "age": 22,
+          "hometown": "Ribeirão Preto",
+          "occupation": "Adman",
+          "finish": 5,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Mirian Cobre",
+          "age": 57,
+          "hometown": "São Paulo",
+          "occupation": "Dentist surgeon",
+          "finish": 6,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Vitor Buorguignon",
+          "age": 26,
+          "hometown": "Curitiba",
+          "occupation": "Businessman & singer",
+          "finish": 7,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fabrizio Barata",
+          "age": 39,
+          "hometown": "Salvador",
+          "occupation": "Adman",
+          "finish": 8,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ana Luiza Teixeira",
+          "age": 27,
+          "hometown": "Chapecó",
+          "occupation": "Zootechnical student",
+          "finish": 9,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Aderlize Martins",
+          "age": 38,
+          "hometown": "Porto Alegre",
+          "occupation": "Businesswoman",
+          "finish": 10,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Yukontorn \"Yuko\" Tappabutt",
+          "age": 31,
+          "hometown": "Suphan Buri, Thailand",
+          "occupation": "Language teacher & YouTuber",
+          "finish": 11,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fernando Ferreira",
+          "age": 30,
+          "hometown": "São Paulo",
+          "occupation": "Personal trainer",
+          "finish": 12,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Taise Spolti",
+          "age": 27,
+          "hometown": "Taquara",
+          "occupation": "Personal trainer",
+          "finish": 13,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Nayane Barreto",
+          "age": 26,
+          "hometown": "Brasília",
+          "occupation": "Lawyer",
+          "finish": 14,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Douglas Holler",
+          "age": 25,
+          "hometown": "Ivoti",
+          "occupation": "Tannery designer",
+          "finish": 15,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Caroline Martins",
+          "age": 31,
+          "hometown": "Barretos",
+          "occupation": "Nuclear energy researcher",
+          "finish": 16,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Abel Chang",
+          "age": 31,
+          "hometown": "Asunción, Paraguay",
+          "occupation": "Marketing director",
+          "finish": 17,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Natalia Clementin",
+          "age": 31,
+          "hometown": "São José do Rio Preto",
+          "occupation": "Journalist & blogger",
+          "finish": 18,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Roger Fernandes",
+          "age": 26,
+          "hometown": "Porto Alegre",
+          "occupation": "Events producer",
+          "finish": 19,
+          "wins": 1,
+          "result": "eliminado",
+          "deceased": true
+        },
+        {
+          "name": "Luciana Braga",
+          "age": 35,
+          "hometown": "Belo Horizonte",
+          "occupation": "Communication director",
+          "finish": 20,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Bruno Viotto",
+          "age": 33,
+          "hometown": "Campinas",
+          "occupation": "Supervisor controllership",
+          "finish": 21,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_4&oldid=1345292605",
+        "revision": 1345292605
+      }
+    },
+    {
+      "id": "brasil-5",
+      "show": "MasterChef Brasil",
+      "edition": "5ª temporada",
+      "year": 2018,
+      "episodes": 22,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Maria Antonia Russi",
+          "age": 36,
+          "hometown": "Porto Alegre",
+          "occupation": "Sommelier",
+          "finish": 1,
+          "wins": 9,
+          "result": "campeao"
+        },
+        {
+          "name": "Hugo Merchan",
+          "age": 25,
+          "hometown": "Marília",
+          "occupation": "Dentist",
+          "finish": 2,
+          "wins": 8,
+          "result": "vice"
+        },
+        {
+          "name": "Eliane Ribeiro",
+          "age": 29,
+          "hometown": "Ilhéus",
+          "occupation": "Businesswoman",
+          "finish": 3,
+          "wins": 9,
+          "result": "eliminado"
+        },
+        {
+          "name": "Thiago Gatto",
+          "age": 35,
+          "hometown": "Rio de Janeiro",
+          "occupation": "PMERJ Major",
+          "finish": 4,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Katleen Lacerda",
+          "age": 24,
+          "hometown": "Ituiutaba",
+          "occupation": "Literature teacher",
+          "finish": 5,
+          "wins": 9,
+          "result": "eliminado"
+        },
+        {
+          "name": "Evandro Zanardo",
+          "age": 40,
+          "hometown": "Tietê",
+          "occupation": "Priest",
+          "finish": 6,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rita Bruning",
+          "age": 51,
+          "hometown": "Florianópolis",
+          "occupation": "Dentist",
+          "finish": 8,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Vinicius Rossignoli",
+          "age": 32,
+          "hometown": "Goiânia",
+          "occupation": "Marketing consultant",
+          "finish": 9,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rui Morschel",
+          "age": 26,
+          "hometown": "Curitiba",
+          "occupation": "Production engineer",
+          "finish": 10,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ana Luiza Amaral",
+          "age": 25,
+          "hometown": "Agudos",
+          "occupation": "Designer",
+          "finish": 11,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Aristeu Guimarães",
+          "age": 33,
+          "hometown": "Imperatriz",
+          "occupation": "Judiciary technician",
+          "finish": 12,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Clarisse Duarte",
+          "age": 27,
+          "hometown": "Belém",
+          "occupation": "Unemployed",
+          "finish": 13,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Angelica Lessa",
+          "age": 41,
+          "hometown": "Carangola",
+          "occupation": "Psychologist",
+          "finish": 14,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Carlos Oliva",
+          "age": 53,
+          "hometown": "São Paulo",
+          "occupation": "Businessman",
+          "finish": 15,
+          "wins": 1,
+          "result": "desistiu"
+        },
+        {
+          "name": "Kauê Pedroso",
+          "age": 31,
+          "hometown": "São Paulo",
+          "occupation": "Art educator",
+          "finish": 16,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Andressa Sanches",
+          "age": 35,
+          "hometown": "São José do Rio Preto",
+          "occupation": "Businesswoman",
+          "finish": 18,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Brissa Ioselli",
+          "age": 28,
+          "hometown": "Mogi das Cruzes",
+          "occupation": "Lawyer",
+          "finish": 19,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Tereza Amorim",
+          "age": 21,
+          "hometown": "Recife",
+          "occupation": "Law student",
+          "finish": 20,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Dalvio Barrichello",
+          "age": 34,
+          "hometown": "São Paulo",
+          "occupation": "Basketball coach",
+          "finish": 21,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_5&oldid=1334558674",
+        "revision": 1334558674
+      }
+    },
+    {
+      "id": "brasil-6",
+      "show": "MasterChef Brasil",
+      "edition": "6ª temporada",
+      "year": 2019,
+      "episodes": 22,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Rodrigo Massoni",
+          "age": 33,
+          "hometown": "Osasco",
+          "occupation": "Environmental engineer",
+          "finish": 1,
+          "wins": 9,
+          "result": "campeao"
+        },
+        {
+          "name": "Lorena Dayse",
+          "age": 35,
+          "hometown": "Teresina",
+          "occupation": "Nurse",
+          "finish": 2,
+          "wins": 11,
+          "result": "vice"
+        },
+        {
+          "name": "Eduardo Richard",
+          "age": 31,
+          "hometown": "Curitiba",
+          "occupation": "Lawyer",
+          "finish": 3,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Juliana Nicoli",
+          "age": 35,
+          "hometown": "Guaratinguetá",
+          "occupation": "Hospital administrator",
+          "finish": 4,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Haila Santuá",
+          "age": 25,
+          "hometown": "Jataí",
+          "occupation": "Advertising",
+          "finish": 5,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Helton Oliveira",
+          "age": 19,
+          "hometown": "Jacutinga",
+          "occupation": "Student",
+          "finish": 6,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ecatharine Santos",
+          "age": 30,
+          "hometown": "Palmeiras",
+          "occupation": "Pilates teacher",
+          "finish": 7,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Eduardo Mauad",
+          "age": 29,
+          "hometown": "Barretos",
+          "occupation": "Doctor",
+          "finish": 8,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fernando Consoni",
+          "age": 37,
+          "hometown": "Araras",
+          "occupation": "Architect",
+          "finish": 9,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Janaina Caetano",
+          "age": 38,
+          "hometown": "São Bernardo do Campo",
+          "occupation": "Tarot card reader",
+          "finish": 10,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Weverton Barreto",
+          "age": 30,
+          "hometown": "Araguari",
+          "occupation": "Civil engineer",
+          "finish": 11,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "André Boratto",
+          "age": 42,
+          "hometown": "Brasília",
+          "occupation": "Public worker",
+          "finish": 12,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Renan Corrêa",
+          "age": 31,
+          "hometown": "São Luís de Montes Belos",
+          "occupation": "Economist",
+          "finish": 13,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Juliana Fraga",
+          "age": 35,
+          "hometown": "Florianópolis",
+          "occupation": "Marketing analyst",
+          "finish": 14,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Natalia Jorge",
+          "age": 27,
+          "hometown": "Brasília",
+          "occupation": "Public worker",
+          "finish": 15,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Marcus Lima",
+          "age": 41,
+          "hometown": "São Paulo",
+          "occupation": "Dentist",
+          "finish": 16,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rosana Gammaro",
+          "age": 62,
+          "hometown": "São Paulo",
+          "occupation": "HR consultant",
+          "finish": 17,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Carlos Augusto",
+          "age": 41,
+          "hometown": "Boston, U.S.",
+          "occupation": "IT analyst",
+          "finish": 18,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Imaculada Soares",
+          "age": 47,
+          "hometown": "São Paulo",
+          "occupation": "Sales manager",
+          "finish": 19,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_6&oldid=1379319384",
+        "revision": 1379319384
+      }
+    },
+    {
+      "id": "brasil-7",
+      "show": "MasterChef Brasil",
+      "edition": "7ª temporada",
+      "year": 2020,
+      "episodes": 25,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Hailton Arruda",
+          "age": 29,
+          "hometown": "São Paulo",
+          "occupation": "App driver",
+          "result": "campeao"
+        },
+        {
+          "name": "Claudia Alves",
+          "age": 40,
+          "hometown": "Remanso",
+          "occupation": "Administrative manager",
+          "result": "eliminado"
+        },
+        {
+          "name": "Cecília Ramos",
+          "age": 40,
+          "hometown": "São Paulo",
+          "occupation": "Financial manager",
+          "result": "eliminado",
+          "deceased": true
+        },
+        {
+          "name": "Cilene Chioatto",
+          "age": 59,
+          "hometown": "Bragança Paulista",
+          "occupation": "Farmer",
+          "result": "eliminado"
+        },
+        {
+          "name": "Jessica Cinat",
+          "age": 29,
+          "hometown": "Osasco",
+          "occupation": "Training manager",
+          "result": "eliminado"
+        },
+        {
+          "name": "Saulo Sampaio",
+          "age": 27,
+          "hometown": "Serra",
+          "occupation": "Marketing analyst",
+          "result": "eliminado"
+        },
+        {
+          "name": "Ali Philipe Dourado",
+          "age": 26,
+          "hometown": "Rondon do Pará",
+          "occupation": "Businessman",
+          "result": "eliminado"
+        },
+        {
+          "name": "Thiago Medeiros",
+          "age": 35,
+          "hometown": "Itanhaém",
+          "occupation": "Musician",
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_7&oldid=1353249688",
+        "revision": 1353249688
+      }
+    },
+    {
+      "id": "brasil-8",
+      "show": "MasterChef Brasil",
+      "edition": "8ª temporada",
+      "year": 2021,
+      "episodes": 24,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Isabella Scherer",
+          "age": 25,
+          "hometown": "Florianópolis",
+          "occupation": "Actress",
+          "finish": 1,
+          "wins": 7,
+          "result": "campeao"
+        },
+        {
+          "name": "Eduardo Prado",
+          "age": 19,
+          "hometown": "São Paulo",
+          "occupation": "College student",
+          "finish": 2,
+          "wins": 11,
+          "result": "vice"
+        },
+        {
+          "name": "Kelyn Kuhn",
+          "age": 28,
+          "hometown": "Canarana",
+          "occupation": "Lawyer",
+          "finish": 3,
+          "wins": 8,
+          "result": "outro"
+        },
+        {
+          "name": "Daphne Sonnenschein",
+          "age": 19,
+          "hometown": "São Paulo",
+          "occupation": "Skateboarder",
+          "finish": 4,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Tiago Souto",
+          "age": 36,
+          "hometown": "Brasília",
+          "occupation": "Advertiser",
+          "finish": 5,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Heitor Cardoso",
+          "age": 30,
+          "hometown": "Campinas",
+          "occupation": "Systems analyst",
+          "finish": 6,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Helena Furtado",
+          "age": 43,
+          "hometown": "São João Nepomuceno",
+          "occupation": "Journalist",
+          "finish": 7,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Luiz Horta",
+          "age": 31,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Financial analyst",
+          "finish": 8,
+          "wins": 8,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ana Bettinelli",
+          "age": 30,
+          "hometown": "David Canabarro",
+          "occupation": "Speech Therapist",
+          "finish": 9,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Raquel Fonseca",
+          "age": 35,
+          "hometown": "Salvador",
+          "occupation": "Financial analyst",
+          "finish": 10,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Márcio Cabral",
+          "age": 52,
+          "hometown": "São Paulo",
+          "occupation": "Teacher",
+          "finish": 11,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "José Sergio da Silva",
+          "age": 50,
+          "hometown": "Canhotinho",
+          "occupation": "Trade representative",
+          "finish": 12,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Pedro Scapini",
+          "age": 29,
+          "hometown": "Campos Novos",
+          "occupation": "Architect",
+          "finish": 13,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Amanda Azeredo",
+          "age": 26,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Interior designer",
+          "finish": 14,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Renato Nogueira",
+          "age": 35,
+          "hometown": "Pindamonhangaba",
+          "occupation": "Environmental engineer",
+          "finish": 15,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "André Serra",
+          "age": 32,
+          "hometown": "São Paulo",
+          "occupation": "Businessman",
+          "finish": 16,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Juliana Arraes",
+          "age": 37,
+          "hometown": "Passos",
+          "occupation": "Entrepreneur",
+          "finish": 17,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Cristina Edite",
+          "age": 51,
+          "hometown": "São Sebastião do Passé",
+          "occupation": "Pedagogical coordinator",
+          "finish": 18,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Antônio Carlos Soares",
+          "age": 23,
+          "hometown": "Maceió",
+          "occupation": "Marketing analyst",
+          "finish": 19,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Juliana Nardelli",
+          "age": 46,
+          "hometown": "Taubaté",
+          "occupation": "Stylist",
+          "finish": 20,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ana Karina Teles",
+          "age": 40,
+          "hometown": "Recife",
+          "occupation": "Doctor",
+          "finish": 21,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Gabriel Carlin",
+          "age": 19,
+          "hometown": "Andradas",
+          "occupation": "Intern",
+          "finish": 22,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Bernardo Mattos",
+          "age": 40,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Businessman",
+          "finish": 23,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_8&oldid=1334559080",
+        "revision": 1334559080
+      }
+    },
+    {
+      "id": "brasil-9",
+      "show": "MasterChef Brasil",
+      "edition": "9ª temporada",
+      "year": 2022,
+      "episodes": 17,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Lays Fernandes",
+          "age": 29,
+          "hometown": "São Paulo",
+          "occupation": "Designer",
+          "finish": 1,
+          "wins": 10,
+          "result": "campeao"
+        },
+        {
+          "name": "Fernanda Oliveira",
+          "age": 29,
+          "hometown": "Uberlândia",
+          "occupation": "Civil engineering",
+          "finish": 2,
+          "wins": 5,
+          "result": "vice"
+        },
+        {
+          "name": "Rafael Barbosa",
+          "age": 23,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Gamer",
+          "finish": 3,
+          "wins": 5,
+          "result": "outro"
+        },
+        {
+          "name": "Renato Mendes",
+          "age": 33,
+          "hometown": "Capitão Poço",
+          "occupation": "Sanitation agent",
+          "finish": 4,
+          "wins": 9,
+          "result": "outro"
+        },
+        {
+          "name": "Melina Andrade",
+          "age": 29,
+          "hometown": "Salvador",
+          "occupation": "Student of letters",
+          "finish": 5,
+          "wins": 7,
+          "result": "outro"
+        },
+        {
+          "name": "Jason Souza",
+          "age": 40,
+          "hometown": "Florianópolis",
+          "occupation": "Businessman",
+          "finish": 6,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fernando Presto",
+          "age": 36,
+          "hometown": "São Paulo",
+          "occupation": "Artisan & seller of erotic products",
+          "finish": 7,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Edleide Araújo",
+          "age": 42,
+          "hometown": "São Luís",
+          "occupation": "Housewife",
+          "finish": 8,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Paraskevi Kotta",
+          "age": 51,
+          "hometown": "Thessaloniki, Greece",
+          "occupation": "Event organizer",
+          "finish": 9,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Bruno Nogueira",
+          "age": 34,
+          "hometown": "Barroso",
+          "occupation": "Dentist",
+          "finish": 10,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Daniel Ferreira",
+          "age": 41,
+          "hometown": "Paulínia",
+          "occupation": "Salesman",
+          "finish": 11,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Mário Santelli",
+          "age": 33,
+          "hometown": "Niterói",
+          "occupation": "Veterinary",
+          "finish": 12,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Adílio Gomes",
+          "age": 29,
+          "hometown": "Pirenópolis",
+          "occupation": "Missionary",
+          "finish": 13,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Larissa Soares",
+          "age": 24,
+          "hometown": "Belo Horizonte",
+          "occupation": "Veterinary",
+          "finish": 14,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Mitiko Hori",
+          "age": 38,
+          "hometown": "Presidente Prudente",
+          "occupation": "Dentist",
+          "finish": 15,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Genesca Souza",
+          "age": 40,
+          "hometown": "São Borja",
+          "occupation": "Beautician",
+          "finish": 16,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_9&oldid=1334559356",
+        "revision": 1334559356
+      }
+    },
+    {
+      "id": "brasil-10",
+      "show": "MasterChef Brasil",
+      "edition": "10ª temporada",
+      "year": 2023,
+      "episodes": 20,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Rodrigo Oliveira"
+      ],
+      "contestants": [
+        {
+          "name": "Ana Carolina Porto",
+          "age": 33,
+          "hometown": "São Paulo",
+          "occupation": "Body piercer",
+          "finish": 1,
+          "wins": 8,
+          "result": "campeao"
+        },
+        {
+          "name": "Wilton Duarte",
+          "age": 26,
+          "hometown": "Santo Anastácio",
+          "occupation": "Teacher",
+          "finish": 2,
+          "wins": 7,
+          "result": "vice"
+        },
+        {
+          "name": "Danilo Costa",
+          "age": 39,
+          "hometown": "Gonçalves",
+          "occupation": "Truck driver",
+          "finish": 3,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Emanuel Sávio",
+          "age": 30,
+          "hometown": "Serra Talhada",
+          "occupation": "Marketing analyst",
+          "finish": 6,
+          "wins": 7,
+          "result": "eliminado"
+        },
+        {
+          "name": "Dielen Ferreira",
+          "age": 24,
+          "hometown": "Santa Vitória do Palmar",
+          "occupation": "Cattle rancher",
+          "finish": 7,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Gizele Divino",
+          "age": 37,
+          "hometown": "Rio Bonito",
+          "occupation": "Singer",
+          "finish": 8,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Lucas Seiji",
+          "age": 28,
+          "hometown": "São Mateus",
+          "occupation": "Production engineer",
+          "finish": 9,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Stephanie Etzel",
+          "age": 31,
+          "hometown": "São Paulo",
+          "occupation": "Creative director",
+          "finish": 10,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Leonardo Giglio",
+          "age": 32,
+          "hometown": "Fortaleza",
+          "occupation": "Rural producer",
+          "finish": 11,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ashanti Beal",
+          "age": 38,
+          "hometown": "Florianópolis",
+          "occupation": "Actress & model",
+          "finish": 12,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Endrik Rafael",
+          "age": 32,
+          "hometown": "Americana",
+          "occupation": "Pastor & designer",
+          "finish": 13,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Camila Barreto",
+          "age": 31,
+          "hometown": "Duque de Caxias",
+          "occupation": "Model",
+          "finish": 14,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Mariane Souza",
+          "age": 29,
+          "hometown": "Serrana",
+          "occupation": "Bank clerk",
+          "finish": 15,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Diego Lima",
+          "age": 25,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Navy military",
+          "finish": 16,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Eduardo Riba",
+          "age": 31,
+          "hometown": "Joinville",
+          "occupation": "Electrician",
+          "finish": 17,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Neylano Vieira",
+          "age": 19,
+          "hometown": "Manaus",
+          "occupation": "Student",
+          "finish": 18,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_10&oldid=1292361311",
+        "revision": 1292361311
+      }
+    },
+    {
+      "id": "brasil-11",
+      "show": "MasterChef Brasil",
+      "edition": "11ª temporada",
+      "year": 2024,
+      "episodes": 25,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "José Roberto Gomes",
+          "age": 46,
+          "hometown": "Natal",
+          "occupation": "Analyst",
+          "finish": 1,
+          "wins": 9,
+          "result": "campeao"
+        },
+        {
+          "name": "Giorgia Paladini",
+          "age": 24,
+          "hometown": "Blumenau",
+          "occupation": "Journalist",
+          "finish": 2,
+          "wins": 12,
+          "result": "vice"
+        },
+        {
+          "name": "Andréia Kaupe",
+          "age": 44,
+          "hometown": "Caxias do Sul",
+          "occupation": "Financial manager",
+          "finish": 3,
+          "wins": 9,
+          "result": "outro"
+        },
+        {
+          "name": "Pâmela Meirelles",
+          "age": 42,
+          "hometown": "Campinas",
+          "occupation": "Photographer",
+          "finish": 6,
+          "wins": 11,
+          "result": "outro"
+        },
+        {
+          "name": "Vinícius de Oliveira",
+          "age": 31,
+          "hometown": "São Paulo",
+          "occupation": "General manager",
+          "finish": 7,
+          "wins": 9,
+          "result": "outro"
+        },
+        {
+          "name": "Larissa Porto",
+          "age": 25,
+          "hometown": "Governador Celso Ramos",
+          "occupation": "Manicurist",
+          "finish": 8,
+          "wins": 7,
+          "result": "outro"
+        },
+        {
+          "name": "Gabriela Paveloski",
+          "age": 28,
+          "hometown": "Bauru",
+          "occupation": "Bartender & sommelier",
+          "finish": 9,
+          "wins": 7,
+          "result": "outro"
+        },
+        {
+          "name": "Roberto Icizuca",
+          "age": 55,
+          "hometown": "São Paulo",
+          "occupation": "Advertiser",
+          "finish": 10,
+          "wins": 8,
+          "result": "outro"
+        },
+        {
+          "name": "João Vitor Klausem",
+          "age": 23,
+          "hometown": "Governador Celso Ramos",
+          "occupation": "Communicator",
+          "finish": 11,
+          "wins": 6,
+          "result": "outro"
+        },
+        {
+          "name": "Pietro Ferrari",
+          "age": 27,
+          "hometown": "São Paulo",
+          "occupation": "Company administrator",
+          "finish": 12,
+          "wins": 6,
+          "result": "outro"
+        },
+        {
+          "name": "Gabriela Cunha",
+          "age": 35,
+          "hometown": "Goiânia",
+          "occupation": "Hairdresser",
+          "finish": 13,
+          "wins": 6,
+          "result": "outro"
+        },
+        {
+          "name": "Lucas Casertani",
+          "age": 29,
+          "hometown": "São Paulo",
+          "occupation": "Designer & art director",
+          "finish": 14,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Alzileide Gomes",
+          "age": 40,
+          "hometown": "Manaus",
+          "occupation": "School inspector",
+          "finish": 15,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Karine Porto",
+          "age": 34,
+          "hometown": "Belo Horizonte",
+          "occupation": "Designer",
+          "finish": 16,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Juan Cariuchi",
+          "age": 27,
+          "hometown": "Petrópolis",
+          "occupation": "Biologist & nutritionist",
+          "finish": 17,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Thaissa Bechomura",
+          "age": 33,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Stylist & artist",
+          "finish": 18,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Renata Britto",
+          "age": 54,
+          "hometown": "Itutinga",
+          "occupation": "Housewife",
+          "finish": 19,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Thais Fernanda",
+          "age": 29,
+          "hometown": "Cunha Porã",
+          "occupation": "Forensic radiologist",
+          "finish": 20,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "José Jefferson Gomes",
+          "age": 34,
+          "hometown": "Surubim",
+          "occupation": "Teacher & artist",
+          "finish": 21,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Riad Altinawi",
+          "age": 21,
+          "hometown": "Damascus, Syria",
+          "occupation": "Medicine student",
+          "finish": 22,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Rafaela Carvalho",
+          "age": 36,
+          "hometown": "Salvador",
+          "occupation": "Nutritionist",
+          "finish": 23,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Andreia Kaupe",
+          "age": 44,
+          "hometown": "Caxias do Sul",
+          "occupation": "Financial manager",
+          "wins": 5,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_11&oldid=1367191595",
+        "revision": 1367191595
+      }
+    },
+    {
+      "id": "brasil-12",
+      "show": "MasterChef Brasil",
+      "edition": "12ª temporada",
+      "year": 2025,
+      "episodes": 15,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Daniela Dantas",
+          "age": 49,
+          "hometown": "Petrópolis",
+          "occupation": "Lawyer",
+          "finish": 1,
+          "wins": 7,
+          "result": "campeao"
+        },
+        {
+          "name": "Felipe Bruzzi",
+          "age": 33,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Barman",
+          "finish": 2,
+          "wins": 6,
+          "result": "vice"
+        },
+        {
+          "name": "Gloria Pai",
+          "age": 66,
+          "hometown": "Hong Kong",
+          "occupation": "Language teacher",
+          "finish": 3,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Rodrigo Pedroza",
+          "age": 35,
+          "hometown": "Volta Redonda",
+          "occupation": "Merchant",
+          "finish": 4,
+          "wins": 7,
+          "result": "outro"
+        },
+        {
+          "name": "Leonela Borges",
+          "age": 29,
+          "hometown": "Santa Bárbara",
+          "occupation": "Lawyer",
+          "finish": 5,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Guilherme Pennacchia",
+          "age": 19,
+          "hometown": "São Paulo",
+          "occupation": "Student",
+          "finish": 6,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Fernanda Colombo",
+          "age": 34,
+          "hometown": "Criciúma",
+          "occupation": "Football referee",
+          "finish": 7,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Taynan Fernandes",
+          "age": 33,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Dentist",
+          "finish": 8,
+          "wins": 5,
+          "result": "outro"
+        },
+        {
+          "name": "Teresa Yi Jun Cai",
+          "age": 29,
+          "hometown": "Foz do Iguaçu",
+          "occupation": "Engineer",
+          "finish": 9,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Sofia Jungmann",
+          "age": 26,
+          "hometown": "São Paulo",
+          "occupation": "Public relations",
+          "finish": 10,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Felipe Miyasaka",
+          "age": 33,
+          "hometown": "Ribeirão Preto",
+          "occupation": "Advertising",
+          "finish": 11,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Naiara Bogo",
+          "age": 28,
+          "hometown": "Indaial",
+          "occupation": "Nautical designer",
+          "finish": 12,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Vitória Ketyllin",
+          "age": 22,
+          "hometown": "Cianorte",
+          "occupation": "Entrepreneur",
+          "finish": 13,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "André Alexandre",
+          "age": 31,
+          "hometown": "Santo Antônio da Alegria",
+          "occupation": "Livestock farmer",
+          "finish": 14,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Lucas Kaum",
+          "age": 31,
+          "hometown": "Brasília",
+          "occupation": "Environmental engineer",
+          "finish": 15,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Ricard Bezerra",
+          "age": 32,
+          "hometown": "Campina Grande",
+          "occupation": "Psychologist",
+          "finish": 16,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Flávia Letícia",
+          "age": 26,
+          "hometown": "Teófilo Otoni",
+          "occupation": "Nursing technician",
+          "finish": 17,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Salomar Arcanjo",
+          "age": 47,
+          "hometown": "Brasília",
+          "occupation": "Businessman",
+          "finish": 18,
+          "wins": 0,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_12&oldid=1356280748",
+        "revision": 1356280748
+      }
+    },
+    {
+      "id": "brasil-13",
+      "show": "MasterChef Brasil",
+      "edition": "13ª temporada",
+      "year": 2026,
+      "episodes": 19,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Jéssica Cechella",
+          "age": 32,
+          "hometown": "Criciúma",
+          "occupation": "Firefighter",
+          "finish": 1,
+          "wins": 7,
+          "result": "campeao"
+        },
+        {
+          "name": "Carla Araújo",
+          "age": 31,
+          "hometown": "Petrolina",
+          "occupation": "Family physician",
+          "finish": 2,
+          "wins": 9,
+          "result": "vice"
+        },
+        {
+          "name": "Rodrigo Quadros",
+          "age": 33,
+          "hometown": "Teresina",
+          "occupation": "Dentist",
+          "finish": 3,
+          "wins": 5,
+          "result": "outro"
+        },
+        {
+          "name": "Maria Eduarda Lima",
+          "age": 21,
+          "hometown": "Mogi das Cruzes",
+          "occupation": "Interior designer",
+          "finish": 4,
+          "wins": 5,
+          "result": "outro"
+        },
+        {
+          "name": "Jesuíno Archanjo",
+          "age": 60,
+          "hometown": "Americana",
+          "occupation": "Fashion designer",
+          "finish": 5,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Gabriela Peixoto",
+          "age": 31,
+          "hometown": "Salvador",
+          "occupation": "Obstetrician",
+          "finish": 6,
+          "wins": 8,
+          "result": "outro"
+        },
+        {
+          "name": "Patric Gomes",
+          "age": 36,
+          "hometown": "Porto Velho",
+          "occupation": "Environmental engineer",
+          "finish": 7,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Aline Oliveira",
+          "age": 46,
+          "hometown": "Belo Horizonte",
+          "occupation": "Homemaker",
+          "finish": 8,
+          "wins": 7,
+          "result": "outro"
+        },
+        {
+          "name": "Nuri Eftekhar",
+          "age": 29,
+          "hometown": "Campinas",
+          "occupation": "Entrepreneur",
+          "finish": 9,
+          "wins": 5,
+          "result": "outro"
+        },
+        {
+          "name": "Taís Evaristo",
+          "age": 32,
+          "hometown": "São Paulo",
+          "occupation": "Influencer",
+          "finish": 10,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Everaldo Akihyto",
+          "age": 27,
+          "hometown": "Castanhal",
+          "occupation": "Industrial consultant",
+          "finish": 11,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Maria Antônia \"Amélia\" do Carmo",
+          "age": 26,
+          "hometown": "Ubá",
+          "occupation": "Content creator & musician",
+          "finish": 12,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Reinaldo Bockor",
+          "age": 47,
+          "hometown": "Canoinhas",
+          "occupation": "Biomedical scientist",
+          "finish": 13,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Larissa Sankauskas",
+          "age": 22,
+          "hometown": "São Bernardo do Campo",
+          "occupation": "Automotive assembler",
+          "finish": 14,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Matheus Monteiro",
+          "age": 27,
+          "hometown": "Goiânia",
+          "occupation": "Hunter & animal science specialist",
+          "finish": 15,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Júlia Pitzer",
+          "age": 31,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Gamer & content creator",
+          "finish": 16,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Marcelo Pereira",
+          "age": 24,
+          "hometown": "Ipatinga",
+          "occupation": "Journalism student",
+          "finish": 17,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Giovanni Trevisan",
+          "age": 31,
+          "hometown": "São Luís",
+          "occupation": "Production engineer",
+          "finish": 18,
+          "wins": 1,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_(Brazilian_TV_series)_season_13&oldid=1379341719",
+        "revision": 1379341719
+      }
+    },
+    {
+      "id": "profissionais-1",
+      "show": "MasterChef Profissionais",
+      "edition": "1ª temporada",
+      "year": 2016,
+      "episodes": 11,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Dayse Paparoto",
+          "age": 31,
+          "hometown": "Mogi das Cruzes",
+          "finish": 1,
+          "wins": 8,
+          "result": "campeao"
+        },
+        {
+          "name": "Marcelo Verde",
+          "age": 27,
+          "hometown": "São Paulo",
+          "finish": 2,
+          "wins": 7,
+          "result": "vice"
+        },
+        {
+          "name": "Dário Costa",
+          "age": 28,
+          "hometown": "Santos",
+          "finish": 3,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ivo Lopes",
+          "age": 40,
+          "hometown": "João Alfredo",
+          "finish": 4,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Fádia Cheaito",
+          "age": 25,
+          "hometown": "Americana",
+          "finish": 5,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "João Lima",
+          "age": 30,
+          "hometown": "São Lourenço da Mata",
+          "finish": 6,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Priscylla Luswarghi",
+          "age": 27,
+          "hometown": "Araçatuba",
+          "finish": 7,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Luiz Filipe Jacob",
+          "age": 25,
+          "hometown": "São Roque",
+          "finish": 8,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rodrigo Einsfeld",
+          "age": 35,
+          "hometown": "Petrópolis",
+          "finish": 9,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Izabela Dolabela",
+          "age": 30,
+          "hometown": "Nova Lima",
+          "finish": 10,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ricardo Bonomi",
+          "age": 40,
+          "hometown": "Campinas",
+          "finish": 11,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Izadora Dantas",
+          "age": 31,
+          "hometown": "São Paulo",
+          "finish": 12,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Profissionais_season_1&oldid=1292367800",
+        "revision": 1292367800
+      }
+    },
+    {
+      "id": "profissionais-2",
+      "show": "MasterChef Profissionais",
+      "edition": "2ª temporada",
+      "year": 2017,
+      "episodes": 14,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Pablo Oazen",
+          "age": 37,
+          "hometown": "Juiz de Fora",
+          "finish": 1,
+          "wins": 7,
+          "result": "campeao"
+        },
+        {
+          "name": "Francisco Pinheiro",
+          "age": 43,
+          "hometown": "Solonópole",
+          "finish": 2,
+          "wins": 5,
+          "result": "vice"
+        },
+        {
+          "name": "Irina Cordeiro",
+          "age": 29,
+          "hometown": "Natal",
+          "finish": 3,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Raissa Ribeiro",
+          "age": 22,
+          "hometown": "São Paulo",
+          "finish": 4,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Lubyanka Baltar",
+          "age": 37,
+          "hometown": "João Pessoa",
+          "finish": 5,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Monique Gabiatti",
+          "age": 32,
+          "hometown": "Aracaju",
+          "finish": 6,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ravi Leite",
+          "age": 26,
+          "hometown": "Curitiba",
+          "finish": 7,
+          "wins": 4,
+          "result": "eliminado"
+        },
+        {
+          "name": "Clécio Campos",
+          "age": 39,
+          "hometown": "Cordisburgo",
+          "finish": 8,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Guilherme Cardadeiro",
+          "age": 27,
+          "hometown": "São Paulo",
+          "finish": 9,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Angelica Vitali",
+          "age": 37,
+          "hometown": "São Caetano do Sul",
+          "finish": 10,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Mirna Gomes",
+          "age": 36,
+          "hometown": "Recife",
+          "finish": 11,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "William Williges",
+          "age": 25,
+          "hometown": "Caxias do Sul",
+          "finish": 12,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Berta Schneider",
+          "age": 34,
+          "hometown": "Itatiaia",
+          "finish": 13,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Barbara Cardin",
+          "age": 22,
+          "hometown": "Londrina",
+          "finish": 14,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Profissionais_season_2&oldid=1292367960",
+        "revision": 1292367960
+      }
+    },
+    {
+      "id": "profissionais-3",
+      "show": "MasterChef Profissionais",
+      "edition": "3ª temporada",
+      "year": 2018,
+      "episodes": 17,
+      "judges": [
+        "Érick Jacquin",
+        "Paola Carosella",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Rafael Gomes",
+          "age": 35,
+          "hometown": "Niterói",
+          "finish": 1,
+          "wins": 8,
+          "result": "campeao"
+        },
+        {
+          "name": "Willian Peters",
+          "age": 33,
+          "hometown": "Porto Alegre",
+          "finish": 2,
+          "wins": 7,
+          "result": "vice"
+        },
+        {
+          "name": "Heaven Delhaye",
+          "age": 33,
+          "hometown": "Petrópolis",
+          "finish": 3,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Manoela Lebron",
+          "age": 31,
+          "hometown": "Uberaba",
+          "finish": 4,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Daniel Barbosa",
+          "age": 27,
+          "hometown": "Campo Grande",
+          "finish": 5,
+          "wins": 6,
+          "result": "eliminado"
+        },
+        {
+          "name": "Andre Pionteke",
+          "age": 27,
+          "hometown": "Curitiba",
+          "finish": 6,
+          "wins": 5,
+          "result": "eliminado"
+        },
+        {
+          "name": "Adriana Avelar",
+          "age": 35,
+          "hometown": "Ituiutaba",
+          "finish": 7,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Roberta Magro",
+          "age": 28,
+          "hometown": "Atibaia",
+          "finish": 8,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Thales Alves",
+          "age": 25,
+          "hometown": "Formosa",
+          "finish": 9,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Marcela Calegari",
+          "age": 26,
+          "hometown": "São Paulo",
+          "finish": 10,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Paulo Quintella",
+          "age": 26,
+          "hometown": "Maceió",
+          "finish": 11,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Simone Bert",
+          "age": 57,
+          "hometown": "Maceió",
+          "finish": 12,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Alex Lee",
+          "age": 30,
+          "hometown": "Jacareí",
+          "finish": 13,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "André Rochadel",
+          "age": 33,
+          "hometown": "Brasília",
+          "finish": 14,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Profissionais_season_3&oldid=1334569630",
+        "revision": 1334569630
+      }
+    },
+    {
+      "id": "profissionais-4",
+      "show": "MasterChef Profissionais",
+      "edition": "4ª temporada",
+      "year": 2022,
+      "episodes": 9,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Diego Sacilotto",
+          "age": 41,
+          "hometown": "São Paulo",
+          "finish": 1,
+          "wins": 6,
+          "result": "campeao"
+        },
+        {
+          "name": "Thalyta Koller",
+          "age": 30,
+          "hometown": "Porto Alegre",
+          "finish": 2,
+          "wins": 4,
+          "result": "vice"
+        },
+        {
+          "name": "Wilson Cabral",
+          "age": 39,
+          "hometown": "Rio de Janeiro",
+          "finish": 3,
+          "wins": 4,
+          "result": "eliminado",
+          "deceased": true
+        },
+        {
+          "name": "Ananda Lutzenberger",
+          "age": 27,
+          "hometown": "Santos",
+          "finish": 4,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Enzo Ceccin",
+          "age": 23,
+          "hometown": "Santa Maria",
+          "finish": 5,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Marília Amorim",
+          "age": 37,
+          "hometown": "Recife",
+          "finish": 6,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Hichel Rodrigues",
+          "age": 43,
+          "hometown": "Sorocaba",
+          "finish": 7,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ellen Romão",
+          "age": 24,
+          "hometown": "Olinda",
+          "finish": 8,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Marcelus Benevides",
+          "age": 37,
+          "hometown": "Natal",
+          "finish": 9,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Thyago Rocha",
+          "age": 39,
+          "hometown": "Maringá",
+          "finish": 10,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Profissionais_season_4&oldid=1334569891",
+        "revision": 1334569891
+      }
+    },
+    {
+      "id": "profissionais-5",
+      "show": "MasterChef Profissionais",
+      "edition": "5ª temporada",
+      "year": 2023,
+      "episodes": 9,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Bárbara Frazão",
+          "age": 31,
+          "hometown": "Brasília",
+          "finish": 1,
+          "wins": 5,
+          "result": "campeao"
+        },
+        {
+          "name": "Franklin Bin",
+          "age": 33,
+          "hometown": "Guarujá",
+          "finish": 2,
+          "wins": 5,
+          "result": "vice"
+        },
+        {
+          "name": "Yuri Escobar",
+          "age": 29,
+          "hometown": "Belo Horizonte",
+          "finish": 3,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Moisés Batista",
+          "age": 32,
+          "hometown": "Natal",
+          "finish": 4,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Vinícius Moura",
+          "age": 38,
+          "hometown": "Rio de Janeiro",
+          "finish": 5,
+          "wins": 3,
+          "result": "eliminado"
+        },
+        {
+          "name": "Rozana Caolli",
+          "age": 36,
+          "hometown": "Uberlândia",
+          "finish": 6,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Cíntia Sanchez",
+          "age": 41,
+          "hometown": "São Paulo",
+          "finish": 7,
+          "wins": 2,
+          "result": "eliminado"
+        },
+        {
+          "name": "Bruno Tavares",
+          "age": 29,
+          "hometown": "Ananindeua",
+          "finish": 8,
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Raquel Amaral",
+          "age": 44,
+          "hometown": "Fortaleza",
+          "finish": 9,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Bruna Moura",
+          "age": 42,
+          "hometown": "São Paulo",
+          "finish": 10,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Tarek Melhem",
+          "age": 28,
+          "hometown": "Tartus, Syria",
+          "finish": 11,
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Eduardo Jacinto",
+          "age": 44,
+          "hometown": "Florianópolis",
+          "finish": 12,
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Profissionais_season_5&oldid=1292368541",
+        "revision": 1292368541
+      }
+    },
+    {
+      "id": "confeitaria-1",
+      "show": "MasterChef Confeitaria",
+      "edition": "1ª temporada",
+      "year": 2024,
+      "episodes": 10,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça",
+        "Diego Lozano"
+      ],
+      "contestants": [
+        {
+          "name": "Cesar Yukio",
+          "age": 35,
+          "hometown": "São Paulo",
+          "finish": 1,
+          "wins": 6,
+          "result": "campeao"
+        },
+        {
+          "name": "Luísa Jungblut",
+          "age": 34,
+          "hometown": "Porto Alegre",
+          "finish": 2,
+          "wins": 4,
+          "result": "vice"
+        },
+        {
+          "name": "Walkyria Fagundes",
+          "age": 34,
+          "hometown": "São Paulo",
+          "finish": 3,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Matheus Rosa",
+          "age": 27,
+          "hometown": "Campos dos Goytacazes",
+          "finish": 5,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Rodrigo \"Digo\" Ribeiro",
+          "age": 32,
+          "hometown": "Osasco",
+          "finish": 6,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Patrick Cavegn",
+          "age": 28,
+          "hometown": "São Gonçalo",
+          "finish": 7,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Juliete Soulé",
+          "age": 32,
+          "hometown": "São Paulo",
+          "finish": 8,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Maria Eugênia Sanches",
+          "age": 26,
+          "hometown": "Poços de Caldas",
+          "finish": 9,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Ale Sotero",
+          "age": 35,
+          "hometown": "São Paulo",
+          "finish": 10,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Marina \"Sá Marina\" Mendes",
+          "age": 40,
+          "hometown": "Vitória da Conquista",
+          "finish": 11,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Verônica Kim",
+          "age": 34,
+          "hometown": "São Paulo",
+          "finish": 12,
+          "wins": 0,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Confeitaria_season_1&oldid=1353018886",
+        "revision": 1353018886
+      }
+    },
+    {
+      "id": "confeitaria-2",
+      "show": "MasterChef Confeitaria",
+      "edition": "2ª temporada",
+      "year": 2025,
+      "episodes": 10,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Diego Lozano"
+      ],
+      "contestants": [
+        {
+          "name": "Leo Salles",
+          "age": 29,
+          "hometown": "São Paulo",
+          "finish": 1,
+          "wins": 7,
+          "result": "campeao"
+        },
+        {
+          "name": "Ramiro Bertassin",
+          "age": 47,
+          "hometown": "São Paulo",
+          "finish": 2,
+          "wins": 4,
+          "result": "vice"
+        },
+        {
+          "name": "Italo Andrade",
+          "age": 28,
+          "hometown": "Salvador",
+          "finish": 3,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Marina Queiroz",
+          "age": 51,
+          "hometown": "Botucatu",
+          "finish": 5,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Johnlee Justino",
+          "age": 44,
+          "hometown": "Caxias do Sul",
+          "finish": 6,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Natan Montenegro",
+          "age": 27,
+          "hometown": "Rio de Janeiro",
+          "finish": 7,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Juliana Braga",
+          "age": 43,
+          "hometown": "Vinhedo",
+          "finish": 8,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Letícia Momma",
+          "age": 28,
+          "hometown": "São Paulo",
+          "finish": 9,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Wagner Nascimento",
+          "age": 45,
+          "hometown": "Itambacuri",
+          "finish": 10,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Lucas Constantini",
+          "age": 35,
+          "hometown": "Bueno Brandão",
+          "finish": 11,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Aline Gonçalves",
+          "age": 35,
+          "hometown": "Curitiba",
+          "finish": 12,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Jéssica Paiva",
+          "age": 27,
+          "hometown": "São Paulo",
+          "finish": 13,
+          "wins": 0,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Confeitaria_season_2&oldid=1353021820",
+        "revision": 1353021820
+      }
+    },
+    {
+      "id": "mais-1",
+      "show": "MasterChef+",
+      "edition": "1ª temporada",
+      "year": 2022,
+      "episodes": 5,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Astro Ribeiro",
+          "age": 80,
+          "hometown": "Caraguatatuba",
+          "occupation": "Househusband",
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Nadja Celina",
+          "age": 62,
+          "hometown": "Maceió",
+          "occupation": "Chemist",
+          "wins": 1,
+          "result": "vice"
+        },
+        {
+          "name": "Beth Coutinho",
+          "age": 71,
+          "hometown": "Jaboticatubas",
+          "occupation": "Artist",
+          "wins": 1,
+          "result": "eliminado"
+        },
+        {
+          "name": "Helena Rodrigues",
+          "age": 67,
+          "hometown": "Araguari",
+          "occupation": "Teacher",
+          "wins": 0,
+          "result": "eliminado"
+        },
+        {
+          "name": "Ney Messias",
+          "age": 60,
+          "hometown": "Belém",
+          "occupation": "Physical educator",
+          "wins": 0,
+          "result": "eliminado"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_%2B_(Brazilian_TV_series)_season_1&oldid=1292368736",
+        "revision": 1292368736
+      }
+    },
+    {
+      "id": "mais-2",
+      "show": "MasterChef+",
+      "edition": "2ª temporada",
+      "year": 2023,
+      "episodes": 6,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Eduardo de Mingo",
+          "age": 63,
+          "hometown": "São Paulo",
+          "occupation": "Tattoo artist",
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Aparecida \"Cida\" Cabral",
+          "age": 68,
+          "hometown": "Ubatã",
+          "occupation": "PhD in public health",
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Cláudio Gonçalves",
+          "age": 65,
+          "hometown": "São Paulo",
+          "occupation": "Finance analyst",
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Ida Saliba",
+          "age": 87,
+          "hometown": "Aquidauana",
+          "occupation": "Retired lawyer",
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Elisiário dos Santos",
+          "age": 73,
+          "hometown": "São Paulo",
+          "occupation": "Retired art teacher",
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Irma Gielow",
+          "age": 80,
+          "hometown": "Dona Emma",
+          "occupation": "Retired seamstress",
+          "wins": 0,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_%2B_(Brazilian_TV_series)_season_2&oldid=1292368682",
+        "revision": 1292368682
+      }
+    },
+    {
+      "id": "celebridades-1",
+      "show": "MasterChef Celebridades",
+      "edition": "Temporada única",
+      "year": 2025,
+      "episodes": 10,
+      "judges": [
+        "Érick Jacquin",
+        "Helena Rizzo",
+        "Henrique Fogaça"
+      ],
+      "contestants": [
+        {
+          "name": "Julianne Trevisol",
+          "age": 42,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Actress",
+          "finish": 1,
+          "wins": 6,
+          "result": "campeao"
+        },
+        {
+          "name": "Valesca Popozuda",
+          "age": 47,
+          "hometown": "Rio de Janeiro",
+          "occupation": "Singer",
+          "finish": 2,
+          "wins": 3,
+          "result": "vice"
+        },
+        {
+          "name": "Dodô Pixote",
+          "age": 39,
+          "hometown": "São Paulo",
+          "occupation": "Singer",
+          "finish": 3,
+          "wins": 3,
+          "result": "outro"
+        },
+        {
+          "name": "Gilmelândia",
+          "age": 53,
+          "hometown": "Salvador",
+          "occupation": "Singer",
+          "finish": 5,
+          "wins": 5,
+          "result": "outro"
+        },
+        {
+          "name": "Rachel Sheherazade",
+          "age": 52,
+          "hometown": "João Pessoa",
+          "occupation": "Journalist",
+          "finish": 6,
+          "wins": 4,
+          "result": "outro"
+        },
+        {
+          "name": "Tiago Piquilo",
+          "age": 41,
+          "hometown": "Fartura",
+          "occupation": "Singer",
+          "finish": 7,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "John Drops",
+          "age": 33,
+          "hometown": "Salvador",
+          "occupation": "Digital Influencer",
+          "finish": 8,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Luciano Szafir",
+          "age": 56,
+          "hometown": "São Paulo",
+          "occupation": "Actor",
+          "finish": 9,
+          "wins": 2,
+          "result": "outro"
+        },
+        {
+          "name": "Márcia Goldschmidt",
+          "age": 65,
+          "hometown": "São Paulo",
+          "occupation": "TV Host",
+          "finish": 10,
+          "wins": 0,
+          "result": "outro"
+        },
+        {
+          "name": "Leonardo Miggiorin",
+          "age": 43,
+          "hometown": "Barbacena",
+          "occupation": "Actor",
+          "finish": 11,
+          "wins": 1,
+          "result": "outro"
+        },
+        {
+          "name": "Hugo Alves",
+          "age": 43,
+          "hometown": "Goiânia",
+          "occupation": "Singer",
+          "finish": 12,
+          "wins": 0,
+          "result": "outro"
+        }
+      ],
+      "source": {
+        "url": "https://en.wikipedia.org/w/index.php?title=MasterChef_Celebridades&oldid=1354535564",
+        "revision": 1354535564
+      }
+    }
+  ]
+}

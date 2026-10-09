@@ -1,20 +1,28 @@
 import { useTheme } from '@/hooks/useTheme'
+import type { Route } from '@/hooks/useRoute'
 import { ChefHatIcon, MoonIcon, SearchIcon, SunIcon } from './icons'
 
 const isMac = typeof navigator !== 'undefined' && /Mac|iPhone|iPad/.test(navigator.platform)
 
-export function Header({ onOpenSearch }: { onOpenSearch: () => void }) {
+export function Header({ onOpenSearch, route, navigate }: { onOpenSearch: () => void; route: Route; navigate: (r: Route) => void }) {
   const { theme, toggle } = useTheme()
 
   return (
     <header className="sticky top-0 z-20 border-b border-line/70 bg-bg/80 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <a href="/" className="group flex items-center gap-2.5">
+        <a
+          href="/"
+          onClick={(e) => {
+            e.preventDefault()
+            navigate({ view: 'temporada' })
+          }}
+          className="group flex items-center gap-2.5"
+        >
           <span className="grid size-7 place-items-center rounded-md bg-accent text-bg transition-transform group-hover:-rotate-6">
             <ChefHatIcon className="size-4" />
           </span>
           <span className="font-serif text-[1.15rem] tracking-tight">
-            MasterChef <span className="text-muted">Profissionais</span>
+            MasterChef <span className="hidden text-muted min-[420px]:inline">Profissionais</span>
           </span>
         </a>
 
@@ -31,12 +39,25 @@ export function Header({ onOpenSearch }: { onOpenSearch: () => void }) {
               {isMac ? '⌘' : 'Ctrl'} K
             </kbd>
           </button>
-          <a
-            href="#ranking"
-            className="hidden rounded-md px-3 py-1.5 text-sm text-muted transition-colors hover:text-fg sm:block"
-          >
-            Ranking
-          </a>
+          {(
+            [
+              ['temporada', 'Temporada', '/'],
+              ['jogos', 'Jogos', '/jogos'],
+            ] as const
+          ).map(([view, label, href]) => (
+            <a
+              key={view}
+              href={href}
+              onClick={(e) => {
+                e.preventDefault()
+                navigate(view === 'jogos' ? { view, game: null } : { view })
+              }}
+              aria-current={route.view === view ? 'page' : undefined}
+              className={`rounded-md px-2.5 py-1.5 text-sm transition-colors ${route.view === view ? 'font-medium text-fg' : 'text-muted hover:text-fg'}`}
+            >
+              {label}
+            </a>
+          ))}
           <button
             type="button"
             onClick={toggle}

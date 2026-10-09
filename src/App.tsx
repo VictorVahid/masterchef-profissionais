@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Header } from '@/components/Header'
 import { FilterSidebar } from '@/components/FilterSidebar'
 import { ChampionPin } from '@/components/ChampionPin'
@@ -10,6 +10,11 @@ import { NextEpisode } from '@/components/NextEpisode'
 import { Predictions } from '@/components/Predictions'
 import { CompareDialog } from '@/components/CompareDialog'
 import { CommandPalette } from '@/components/CommandPalette'
+import { ChatLauncher } from '@/chat/ChatLauncher'
+import { useRoute } from '@/hooks/useRoute'
+
+// Jogos e base histórica só são baixados quando alguém abre a aba Jogos
+const GamesPage = lazy(() => import('@/games/GamesPage'))
 import { getEpisode, getEpisodes, getParticipant, getParticipants, meta, season, sources } from '@/data'
 import { computeStandings } from '@/lib/ranking'
 import { useUrlFilters } from '@/hooks/useUrlFilters'
@@ -21,6 +26,7 @@ const latestEpisode = episodes.at(-1)!.number
 const PINNED_EPISODE = 1
 
 export default function App() {
+  const [route, navigate] = useRoute()
   const [filters, setFilters] = useUrlFilters({ episode: latestEpisode, participant: null }, (f) => ({
     episode: getEpisode(f.episode) ? f.episode : latestEpisode,
     participant: f.participant && getParticipant(f.participant) ? f.participant : null,
@@ -37,6 +43,9 @@ export default function App() {
 
   const setEpisode = useCallback((n: number) => setFilters((f) => ({ ...f, episode: n })), [setFilters])
   const setParticipant = useCallback((id: string | null) => setFilters((f) => ({ ...f, participant: id })), [setFilters])
+  // Vindo da busca rápida: volta para a temporada antes de abrir o perfil/episódio
+  const goParticipant = useCallback((id: string) => (navigate({ view: 'temporada' }), setParticipant(id)), [navigate, setParticipant])
+  const goEpisode = useCallback((n: number) => (navigate({ view: 'temporada' }), setEpisode(n)), [navigate, setEpisode])
 
   // Situação da temporada inteira (para o bolão e o comparador)
   const seasonStandings = useMemo(() => computeStandings(participants, episodes, latestEpisode), [])
@@ -85,9 +94,15 @@ export default function App() {
 
   return (
     <div className="flex min-h-dvh flex-col">
-      <Header onOpenSearch={() => setPaletteOpen(true)} />
+      <Header onOpenSearch={() => setPaletteOpen(true)} route={route} navigate={navigate} />
 
       <main className="mx-auto w-full max-w-6xl flex-1 px-4 pb-24 pt-12 sm:px-6 sm:pt-16">
+        {route.view === 'jogos' ? (
+          <Suspense fallback={<p className="py-20 text-center text-sm text-muted">Carregando os jogos…</p>}>
+            <GamesPage game={route.game} navigate={navigate} />
+          </Suspense>
+        ) : (
+        <>
         <section className="mb-10 max-w-2xl">
           <p className="mb-4 text-sm text-accent">
             {season.edition} · {season.year} · {season.network} · {season.schedule}
@@ -153,7 +168,11 @@ export default function App() {
             />
           </div>
         </div>
+        </>
+        )}
       </main>
+
+      <ChatLauncher last={episodes.at(-1)!} />
 
       <CompareDialog
         pair={comparePair}
@@ -167,9 +186,9 @@ export default function App() {
         onClose={() => setPaletteOpen(false)}
         participants={participants}
         episodes={episodes}
-        onParticipant={setParticipant}
-        onEpisode={setEpisode}
-        onCompare={() => openCompare()}
+        onParticipant={goParticipant}
+        onEpisode={goEpisode}
+        onCompare={() => (navigate({ view: 'temporada' }), openCompare())}
       />
 
       <footer className="border-t border-line">

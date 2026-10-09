@@ -15,6 +15,9 @@ App para acompanhar a classificação dos participantes do MasterChef Profission
 - **Frente a frente**: comparação de dois participantes métrica a métrica e episódio a episódio
 - **Busca rápida** com `Ctrl/⌘ + K` ou `/`, e **compartilhar** o link de um perfil
 - Tema claro/escuro, layout para celular (carrossel de participantes) e respeito a "reduzir movimento"
+- **Chat ao vivo** por episódio (Supabase, grátis): reações em tempo real, contador de online, denúncias e anti-spam
+- **Jogos** (`/jogos`): **Copa MasterChef** (monte um time com chefs de todas as temporadas e enfrente seleções
+  aleatórias em 7 provas) e **Quiz da história** (campeões, vices, jurados, anos e colocações; modo "Quem é?")
 
 ## Rodando localmente
 
@@ -97,6 +100,30 @@ campeão de outro episódio no topo, mude `PINNED_EPISODE` em `src/App.tsx`.
 
 > Elenco compilado de reportagens e do site oficial; fontes no rodapé do site e em cada episódio.
 > Fotos: divulgação/Band. Projeto de fãs, sem vínculo oficial com a Band ou o programa.
+
+## Base histórica (jogos)
+
+`src/data/history.json` reúne 23 temporadas brasileiras (Brasil, Profissionais, Confeitaria, MasterChef+ e
+Celebridades), gerada a partir da Wikipédia (CC BY-SA 4.0) com o id de revisão de cada página:
+
+```bash
+npx tsx scripts/build-history.ts
+```
+
+O MasterChef Júnior fica de fora (participantes menores de idade). A nota dos chefs no jogo vem só de dados
+reais (colocação final e provas vencidas); participantes falecidos não entram no jogo de times.
+
+## Chat ao vivo (Supabase, grátis)
+
+1. Crie uma conta e um projeto em [supabase.com](https://supabase.com) (plano Free).
+2. **Authentication → Sign In / Providers**: habilite **Allow anonymous sign-ins**.
+3. **SQL Editor → New query**: cole e rode todo o arquivo [`supabase/chat.sql`](supabase/chat.sql).
+4. **Project Settings → API**: copie a *Project URL* e a chave *anon/publishable* (**nunca** a `service_role`).
+5. Na Vercel: **Settings → Environment Variables**, crie `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY`
+   e faça um novo deploy. Localmente, copie `.env.example` para `.env.local`.
+
+Moderação: em **Table Editor**, `chat_messages` mostra quem enviou (`user_id`). Para banir:
+`insert into public.chat_bans (user_id, reason) values ('<uuid>', 'spam');`
 
 ## Deploy na Vercel
 
