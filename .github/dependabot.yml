@@ -1,0 +1,17 @@
+# Abre PRs automaticamente quando há atualização (inclusive correções de CVE)
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      dependencias:
+        patterns: ['*']
+
+  # Mantém atualizados os hashes fixados das Actions
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

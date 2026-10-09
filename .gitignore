@@ -1,0 +1,21 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vercel
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Pasta de trabalho do robô de atualização
+.bot

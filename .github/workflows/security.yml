@@ -1,0 +1,51 @@
+name: Segurança
+
+# A cada push/PR e toda segunda-feira: auditoria de dependências (CVEs
+# conhecidos), checagem de tipos e build, e análise estática com CodeQL.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: Auditoria de dependências (falha em CVE alto ou crítico)
+        run: npm audit --audit-level=high
+      - name: Assinaturas dos pacotes (proveniência do registro npm)
+        run: npm audit signatures
+      - name: Tipos e build
+        run: npm run build
+
+  codeql:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      security-events: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - uses: github/codeql-action/init@9f759ee644a3e7c15c1390abf49868036c00067b # v3.38.3
+        with:
+          languages: javascript-typescript, actions
+          queries: security-extended
+      - uses: github/codeql-action/analyze@9f759ee644a3e7c15c1390abf49868036c00067b # v3.38.3

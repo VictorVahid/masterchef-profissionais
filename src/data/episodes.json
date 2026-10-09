@@ -1,0 +1,60 @@
+[
+  {
+    "number": 1,
+    "title": "Estreia: serviço para 100 convidados e torre de religieuse",
+    "airDate": "2026-10-06",
+    "summary": "Os 18 cozinheiros trabalharam juntos para servir 100 convidados com dois menus criados pelos jurados, \"Marés\" e \"Raízes\". Na prova de eliminação, uma releitura da religieuse, torre de éclairs e profiteroles em duas camadas com sabores de memória afetiva.",
+    "challenges": [
+      {
+        "name": "Prova de serviço",
+        "description": "Dois menus (Marés e Raízes) com entrada, principal e sobremesa para 100 convidados.",
+        "winnerId": "irina-cordeiro",
+        "pin": true
+      },
+      {
+        "name": "Prova de eliminação",
+        "description": "Torre de religieuse em duas camadas, com sabores inspirados em memórias afetivas.",
+        "winnerId": "leo-salles",
+        "pin": true
+      }
+    ],
+    "saves": [
+      {
+        "by": "irina-cordeiro",
+        "saved": "kenzo-shintome"
+      }
+    ],
+    "guestJudges": [
+      "Ana Paula Padrão",
+      "Rodrigo Oliveira",
+      "Diego Lozano"
+    ],
+    "results": {
+      "irina-cordeiro": "destaque",
+      "daniela-rosa": "destaque",
+      "ieda-de-matos": "destaque",
+      "joao-vieira": "destaque",
+      "lubyanka-baltar": "destaque",
+      "marcelo-zaidan": "destaque",
+      "will-peters": "destaque",
+      "pascal-valero": "destaque",
+      "kenzo-shintome": "salvo",
+      "hugo-merchan": "salvo",
+      "leo-santos": "salvo",
+      "mari-marzola": "salvo",
+      "fernanda-oliveira": "eliminatoria",
+      "gabi-carregosa": "eliminatoria",
+      "helena-furtado": "eliminatoria",
+      "leo-salles": "eliminatoria",
+      "miguel-fernandez": "eliminatoria",
+      "vinicius-cavalcante": "eliminado"
+    },
+    "sources": [
+      "https://www.band.com.br/entretenimento/realities/masterchef/vinicius-cavalcante-e-o-primeiro-eliminado-do-masterchef-profissionais-2026",
+      "https://www.adorocinema.com/televisao/noticias/noticia-1000226319.html",
+      "https://exame.com/pop/quem-foi-o-primeiro-eliminado-do-masterchef-profissionais-2026/",
+      "https://aloalobahia.com/noticias/2026/10/07/masterchef-profissionais-2026-veja-os-destaques-e-quem-foi-eliminado-na-estreia/"
+    ],
+    "updatedBy": "manual"
+  }
+]
