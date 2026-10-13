@@ -87,7 +87,7 @@ jobs:
       id-token: write
     steps:
       # Sem checkout: a pasta de trabalho contém só as matérias e as instruções
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           name: contexto
           path: .bot
@@ -141,12 +141,12 @@ jobs:
       - name: Instalar dependências (sem scripts de instalação)
         run: npm ci --ignore-scripts
 
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           name: contexto
           path: .bot
 
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         if: needs.extract.result == 'success'
         with:
           name: extracao
