@@ -56,5 +56,54 @@
       "https://aloalobahia.com/noticias/2026/10/07/masterchef-profissionais-2026-veja-os-destaques-e-quem-foi-eliminado-na-estreia/"
     ],
     "updatedBy": "manual"
+  },
+  {
+    "number": 2,
+    "title": "Nhoque de chipa com suflê e reinvenção do prato feito",
+    "airDate": "2026-10-13",
+    "summary": "Com o chef argentino Facundo Kelemen como convidado, os participantes recriaram um nhoque usando a técnica de suflê, e Leo Santos venceu a prova e subiu ao mezanino. Na prova de eliminação, a reinvenção do prato feito, Daniela venceu, Hugo e Irina foram destaques positivos e Mari Marzola foi eliminada.",
+    "challenges": [
+      {
+        "name": "Nhoque de chipa com técnica de suflê",
+        "description": "Releitura autoral do nhoque de chipa com molho cacio e pepe doce do chef Facundo Kelemen, usando a técnica de suflê. Léo Salles, vencedor da prova anterior, barrou oito concorrentes da degustação do prato.",
+        "winnerId": "leo-santos",
+        "pin": true
+      },
+      {
+        "name": "Reinvenção do prato feito",
+        "description": "Prova de eliminação em que os cozinheiros reinventaram o prato feito brasileiro. Marcelo e os destaques negativos da prova anterior perderam 5 minutos de tempo.",
+        "winnerId": "daniela-rosa",
+        "pin": false
+      }
+    ],
+    "results": {
+      "fernanda-oliveira": "participou",
+      "helena-furtado": "participou",
+      "hugo-merchan": "eliminatoria",
+      "irina-cordeiro": "eliminatoria",
+      "leo-salles": "participou",
+      "leo-santos": "destaque",
+      "lubyanka-baltar": "participou",
+      "marcelo-zaidan": "eliminatoria",
+      "will-peters": "participou",
+      "daniela-rosa": "eliminatoria",
+      "gabi-carregosa": "participou",
+      "ieda-de-matos": "participou",
+      "joao-vieira": "participou",
+      "kenzo-shintome": "participou",
+      "mari-marzola": "eliminado",
+      "miguel-fernandez": "participou",
+      "pascal-valero": "participou"
+    },
+    "guestJudges": [
+      "Facundo Kelemen"
+    ],
+    "sources": [
+      "https://www.band.com.br/entretenimento/realities/masterchef/mari-marzola-e-eliminada-do-masterchef-profissionais-nao-soube-jogar",
+      "https://www.band.com.br/entretenimento/realities/masterchef/marcelo-se-irrita-com-desvantagem-no-masterchef-pode-vir-caralh",
+      "https://www.band.com.br/entretenimento/realities/masterchef/jacquin-detona-prato-de-mariana-no-masterchef-bola-de-golfe-na-represa",
+      "https://www.band.com.br/entretenimento/realities/masterchef/masterchef-profissionais-ao-vivo-assista-ao-segundo-episodio-da-temporada"
+    ],
+    "updatedBy": "bot"
   }
 ]
